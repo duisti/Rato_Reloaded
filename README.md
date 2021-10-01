@@ -1,2 +1,2 @@
 # Rato_Reloaded
-Rato game with networking
+Rat game with networking
